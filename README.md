@@ -178,4 +178,7 @@ Write a message:
 
 Emir Soyturk - emirsytrk@gmail.com
 
+You can find the README Template via link.
+https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
