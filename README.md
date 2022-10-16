@@ -138,7 +138,7 @@ Write a message:
 User 2
 
 ```console
-Waiting to server accept registration...
+Waiting server to accept registration...
 You succesfully connected to server.
 ----------------
 Write a message:
@@ -158,7 +158,7 @@ Write a message:
 User 3
 
 ```console
-Waiting to server accept registration...
+Waiting server to accept registration...
 You succesfully connected to server.
 ----------------
 Write a message: Hello everyone
